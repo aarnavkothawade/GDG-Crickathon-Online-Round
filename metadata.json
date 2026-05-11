@@ -1,0 +1,6 @@
+{
+  "name": "Bin IT",
+  "description": "A gamified app for recording videos of throwing trash in stadium bins to earn discount coupons.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": []
+}

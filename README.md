@@ -1,12 +1,20 @@
-# GDG-Crickathon-Online-Round
-This repo is the website we created for the GDG Crickathon Online Round that is the first round. It is a gamified version of Waste Management at a stadium with rewards points to the people who properly dispose the waste of in a stadium during a match
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/1a68078d-1164-4333-ad7f-fd80c552c3bc
+
+## Run Locally
+
+**Prerequisites:**  Node.js
 
 
-This app is based on the following Tech Stack - 
-1. HTML
-2. CSS
-3. JSON
-4. Typescript XML
-5. VITE
-
-This app is solely for the demo purpose so most of the things dont work!
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
